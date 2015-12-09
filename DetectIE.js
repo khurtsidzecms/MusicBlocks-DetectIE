@@ -11,6 +11,7 @@ var DetectIE = function() {
 		document.body.innerHTML += "<a href='https://www.mozilla.org/en-US/firefox/new/' style='float: left; margin-left: 40px;display: inherit; font-family: Arial; font-size: 30px; color: #0327F1; text-decoration: none;'>Firefox</a>";
 		document.body.innerHTML += "</div></div>";
 	}
+	
 }
 
 DetectIE();
